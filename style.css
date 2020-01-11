@@ -1,0 +1,24 @@
+*{margin: 0;
+padding: 0;}
+
+body{
+	margin-top: 50px;
+	background-image: url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	background-size: 200% 120%
+	font-family:'Luckiest Guy', cursive;
+}
+#section{
+	border-radius: 50px;
+	background-size: 200% 200%;
+	background-image: url("https://cdn.pixabay.com/photo/2015/01/07/16/37/wood-591631__480.jpg");
+	
+	
+}
+#name{
+	
+	width: 250px;
+	height: 25px;
+}
+#main{
+	margin-bottom: 20px;
+}
